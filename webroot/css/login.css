@@ -1,0 +1,17 @@
+.page
+{
+    background: black;
+    background-size: cover;
+    height: 100vh;
+}
+
+.loginForm
+{
+    position: relative;
+    top: 300px;
+}
+
+.infos
+{
+    border-radius: 2px;
+}

@@ -1,0 +1,51 @@
+.contain--page
+{
+    background: url('../../webroot/assets/car.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.form--register
+{
+    background-color: rgba(0, 0, 0, .4);
+    position: absolute;
+    top: 300px;
+    border-radius: 5px;
+}
+
+.bg-black
+{
+    background-color: black;
+}
+
+.form--login
+{
+    position: absolute;
+    left: 50%;
+    top: 350px;
+}
+
+.btn-red
+{
+    background-color: #9C1717;
+    color: white;
+}
+
+.text--presentation
+{
+    position: absolute;
+    top: 320px;
+    left: 50%;
+
+}
+
+.logo--placement
+{
+    position: absolute;
+    right: 12%;
+}
+
+.font
+{
+    font-size: 90px;
+}
